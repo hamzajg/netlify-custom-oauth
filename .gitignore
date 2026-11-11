@@ -4,3 +4,7 @@ node_modules
 /package
 /build
 /.netlify
+# Local environment variables
+.env
+.env.*
+!.env.example
